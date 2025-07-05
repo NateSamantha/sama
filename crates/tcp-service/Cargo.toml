@@ -1,0 +1,11 @@
+[package]
+name = "tcp-service"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+estate = { path = "../estate" }
+eyre = { workspace = true }
+state = { path = "../state" }
+tokio = { workspace = true }
+tracing = { workspace = true }

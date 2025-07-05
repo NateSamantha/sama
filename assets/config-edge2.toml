@@ -1,0 +1,2 @@
+listeners = [ "127.0.0.20:6000" ]
+catalog = "assets/catalog.json"
